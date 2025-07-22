@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.ticker as mtick
 from datetime import datetime
-import os # Necessário para verificar a existência do arquivo Excel
+import os
 
 # --- Configurações da Página ---
 st.set_page_config(layout="wide", page_title="Dashboard Financeiro")
